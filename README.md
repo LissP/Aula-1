@@ -1,5 +1,7 @@
 # Aula
-Aula do dia 30 de maio de 2016 da disciplina EstatÃ­stica Computacional
+Aula do dia 30 de maio de 2016 da disciplina EstatÃƒÂ­stica Computacional
 
-Primeira alteração
-Segunda alteração
+Primeira alteraÃ§Ã£o
+Segunda alteraÃ§Ã£o
+
+----------------------------
